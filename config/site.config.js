@@ -31,9 +31,9 @@ module.exports = {
   // googleFontSans - the sans serif font used in onedrive-vercel-index.
   googleFontSans: 'Noto Serif',
   // googleFontMono - the monospace font used in onedrive-vercel-index.
-  googleFontMono: 'Noto Sans Mono',
+  googleFontMono: 'Noto Serif',
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://fonts.geekzu.org/css2?family=Noto+Sans+Mono&family=Noto+Serif:wght@400;500;700&display=swap'],
+  googleFontLinks: ['https://fonts.geekzu.org/css2?family=Noto+Serif&family=Noto+Serif:wght@400;500;700&display=swap'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
