@@ -147,7 +147,3 @@ Open-source is hard! If you happen to like this project and want me to keep goin
   <em>made with ❤️ by <a href="https://spencerwoo.com">spencer woo</a></em>
 </div>
 
-
-## Credits
-
-Using <a target="_blank" href="https://icons8.com/icon/18992/pancake-stack">Pancake Stack</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
