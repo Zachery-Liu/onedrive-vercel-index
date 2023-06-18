@@ -55,6 +55,10 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/Zachery-Liu',
     },
+    {
+      name: 'BiliBili',
+      link: 'https://space.bilibili.com/474705747'
+    }
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
