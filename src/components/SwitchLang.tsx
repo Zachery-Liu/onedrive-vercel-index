@@ -28,13 +28,13 @@ const localeText = (locale: string): string => {
     case 'hi':
       return '🇮🇳 हिन्दी'
     case 'id':
-      return '🇮🇩 Indonesia'
+      return '🇮🇩 Bahasa In'
     case 'tr-TR':
       return '🇹🇷 Türkçe'
     case 'zh-HK':
       return '🇭🇰 繁體中文'
     default:
-      return '🇬🇧 English'
+      return '🇨🇳 简体中文'
   }
 }
 
